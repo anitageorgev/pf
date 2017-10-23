@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import logo from './logo.jpeg';
 import './App.css';
 import NavBar from './SideNav.jsx';
-import Test from './Test.jsx';
 import NavBarBootstrap from './NavBarBootstrap.jsx';
 
 import { iosHeartOutline } from 'react-icons-kit/ionicons/iosHeartOutline'; 
@@ -24,7 +23,6 @@ class App extends Component {
         </header>
         {/*<NavBar/>  */}
         <NavBarBootstrap/>
-        <Test />  
       </div>     
     );
   }  
