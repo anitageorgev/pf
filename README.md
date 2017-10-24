@@ -18,3 +18,4 @@ In the desired folder:
 <p>npm init</p>
 <p>npm i express --save</p>
 <p>npm i body-parser --save</p>
+<p>npm i cors --save<p>
