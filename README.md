@@ -12,3 +12,9 @@ POC for pf
 ### 3. Libraries needed
 <p>npm install --save react-bootstrap</p>
 <p>npm install --save react-icons-kit</p>
+
+## Node API
+In the desired folder:
+<p>npm init</p>
+<p>npm i express --save</p>
+<p>npm i body-parser --save</p>
